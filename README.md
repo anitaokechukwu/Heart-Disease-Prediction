@@ -143,7 +143,8 @@ The deployed application allows users to:
 
 ### Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](images/dashboard.png)
+
 
 ---
 
