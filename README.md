@@ -157,7 +157,7 @@ The deployed application allows users to:
 
 ### Feature Importance
 
-(Add feature importance screenshot here)
+![Feature Importance](images/feature_importance04.png)
 
 ---
 
