@@ -150,7 +150,8 @@ The deployed application allows users to:
 
 ### Prediction Result
 
-(Add prediction screenshot here)
+![Prediction](images/prediction01.png)
+
 
 ---
 
