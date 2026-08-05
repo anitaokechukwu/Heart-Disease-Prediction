@@ -163,7 +163,10 @@ The deployed application allows users to:
 
 ### Confusion Matrix
 
-(Add confusion matrix screenshot here)
+![Confusion Matrix](images/confusion_matrix02.png)
+
+
+
 
 ---
 
@@ -233,6 +236,18 @@ streamlit run app.py
 * Integration with electronic health records (EHR)
 
 ---
+
+## 📂 Dataset
+
+The dataset used in this project is publicly available.
+
+**Source:** Hospital Billing Dataset (Kaggle)
+
+🔗 https://www.kaggle.com/datasets/...
+
+> Note: The dataset is not included in this repository due to its size. Please download it from the source above and place it in the `data/` folder before running the analysis.
+
+
 
 ## ⚠️ Disclaimer
 
